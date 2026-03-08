@@ -31,6 +31,22 @@ python explainability/attention_rollout.py
 
 BreakHis dataset (Breast Cancer Histopathological Dataset).
 
+## Run in Google Colab
+
+To reproduce the experiments easily, you can run the notebook directly in Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/nattavut/Explainable-ConvNeXt-Breast-Cancer/blob/main/notebooks/BreastCancer_ConvNeXt_Colab.ipynb)
+
+Steps:
+
+1. Open the notebook in Colab
+2. Install required packages
+3. Download the BreakHis dataset
+4. Train the ConvNeXt model
+5. Run inference with Test-Time Augmentation
+6. Generate attention rollout heatmaps
+   
 ## Repository Structure
 
 - Explainable-ConvNeXt-Breast-Cancer
