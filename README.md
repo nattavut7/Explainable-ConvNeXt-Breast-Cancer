@@ -36,7 +36,7 @@ BreakHis dataset (Breast Cancer Histopathological Dataset).
 To reproduce the experiments easily, you can run the notebook directly in Google Colab.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/nattavut/Explainable-ConvNeXt-Breast-Cancer/blob/main/notebooks/BreastCancer_ConvNeXt_Colab.ipynb)
+(https://colab.research.google.com/github/nattavut7/Explainable-ConvNeXt-Breast-Cancer/blob/main/notebooks/BreastCancer_ConvNeXt_Colab.ipynb)
 
 Steps:
 
