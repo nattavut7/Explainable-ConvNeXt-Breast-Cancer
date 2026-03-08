@@ -32,34 +32,33 @@ python explainability/attention_rollout.py
 
 BreakHis dataset (Breast Cancer Histopathological Dataset).
 
-## Structure
+## Repository Structure
 
 Explainable-ConvNeXt-Breast-Cancer
 │
 ├── README.md
 ├── requirements.txt
 │
-├── dataset/
+├── dataset
 │   └── download_breakhis.py
 │
-├── models/
+├── models
 │   └── convnext_model.py
 │
-├── preprocessing/
+├── preprocessing
 │
-├── explainability/
+├── explainability
 │   └── attention_rollout.py
 │
-├── training/
+├── training
 │   ├── train.py
 │   └── tta_inference.py
 │
-├── utils/
+├── utils
 │   ├── dataset_loader.py
 │   └── metrics.py
 │
-├── notebooks/
+├── notebooks
 │   └── BreastCancer_ConvNeXt_Colab.ipynb
 │
-└── weights/
-
+└── weights
