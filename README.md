@@ -85,7 +85,7 @@ Paper Link:
 https://link.springer.com/article/10.1007/s44163-026-01068-8
 
 ## Abstract
-This paper proposes an explainable deep learning framework that integrates a ConvNeXt backbone, Test-Time Augmentation (TTA), and Attention Rollout (AR) for breast cancer classification from histopathological images. The proposed framework has achieved 98.7% classification accuracy on the BreakHis dataset while improving interpretability and computational efficiency.
+Breast cancer classification from histopathological images has been a major focus of recent deep learning research. However, the lack of model interpretability and high computational demands have limited clinical adoption. This paper proposes an explainable deep learning framework that integrates a ConvNeXt backbone, test-time augmentation (TTA), and attention rollout (AR) to achieve high-performance and transparent breast cancer diagnosis. Evaluated on the BreakHis dataset, consistently used across all related works for fair benchmarking. The proposed framework has achieved an accuracy of 98.7%, surpassing numerous related works, while effectively addressing critical challenges in explainability, generalization, and computational efficiency. By providing visual insights into the decision-making process, the framework enhances clinical trust and usability, representing a significant advancement toward next-generation AI-assisted pathology tools.
 
 ## Citation
 ```bibtex
