@@ -68,3 +68,32 @@ Steps:
   - notebooks
     - BreastCancer_ConvNeXt_Colab.ipynb
   - weights
+# Explainable-ConvNeXt-Breast-Cancer
+
+Official repository for the paper:
+
+## Paper
+**Explainable ConvNeXt Framework with Attention Rollout for Breast Cancer Classification from Histopathological Images**
+
+Nattavut Sriwiboon
+
+Published in *Discover Artificial Intelligence*, 2026.
+
+DOI: https://doi.org/10.1007/s44163-026-01068-8
+
+Paper Link:
+https://link.springer.com/article/10.1007/s44163-026-01068-8
+
+## Abstract
+This paper proposes an explainable deep learning framework that integrates a ConvNeXt backbone, Test-Time Augmentation (TTA), and Attention Rollout (AR) for breast cancer classification from histopathological images. The proposed framework has achieved 98.7% classification accuracy on the BreakHis dataset while improving interpretability and computational efficiency.
+
+## Citation
+```bibtex
+@article{sriwiboon2026convnext,
+  title={Explainable ConvNeXt framework with attention rollout for breast cancer classification from histopathological images},
+  author={Sriwiboon, Nattavut},
+  journal={Discover Artificial Intelligence},
+  year={2026},
+  doi={10.1007/s44163-026-01068-8}
+}
+
